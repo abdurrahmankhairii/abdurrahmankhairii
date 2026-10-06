@@ -234,9 +234,9 @@ My background spans **IT/OT infrastructure in oil & gas** (Pertamina EP Cepu), *
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdurrahmankhairii/abdurrahmankhairii/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdurrahmankhairii/abdurrahmankhairii/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abdurrahmankhairii/abdurrahmankhairii/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdurrahmankhairii/abdurrahmankhairii/raw/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdurrahmankhairii/abdurrahmankhairii/raw/output/github-snake.svg?v=1" />
+    <img alt="github contribution snake animation" src="https://github.com/abdurrahmankhairii/abdurrahmankhairii/raw/output/github-snake-dark.svg?v=1" />
   </picture>
 </p>
 
