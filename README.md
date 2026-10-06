@@ -124,6 +124,10 @@ My background spans **IT/OT infrastructure in oil & gas** (Pertamina EP Cepu), *
 - Manage a digital ecosystem of **20+ web apps & Power BI dashboards** with Power Automate and Power Apps.
 - Delivered enterprise systems: **Permit To Work**, **Safety Patrol V2.2**, **Near Miss System (Gemini AI)**, **EMESYS**, and **5x5 AuditLens**.
 
+**🤖 Instructor, AI Training — BLK Dinas Ketenagakerjaan Kota Tangerang** &nbsp;·&nbsp; _Nov 2025 – Dec 2025_
+- Delivered a 5-week AI training program to 15 participants (fresh grads, UMKM, gig workers).
+- Designed curriculum on AI fundamentals, generative AI, and n8n workflow automation.
+
 **🛢️ IT Operations Intern — PT. Pertamina EP Cepu** &nbsp;·&nbsp; _Aug 2025 – Nov 2025_
 - Managed IT infrastructure: seat management, LAN, MPLS, CCTV, IP telephony, firewall & SD-WAN.
 - Designed **PERISAI**, an identity & PPE detection system (**YOLOv10m + InsightFace**) for worker safety at Sukowati Fields.
@@ -215,6 +219,8 @@ My background spans **IT/OT infrastructure in oil & gas** (Pertamina EP Cepu), *
 | 🤝 | **Best Teamwork — AI Fashion Assistant** | Golden Code International Hackathon | May 2025 |
 | 👑 | **Chairperson** — led 58 members, 9 divisions, 13 events | HIMA Informatics, President University | 2024 – 2025 |
 | 🧑‍🏫 | **Mentor** — 500 students on AI applications | PAND.AI Workshop by AICO | Mar 2025 |
+| 🌱 | **Project Manager** — led 30 members on mangrove planting initiative | Social Project Mangrove Rangers | Jun – Jul 2024 |
+| 🤝 | **Member of External Relations** — managed campus & media partnerships | HIMA Informatics, President University | 2023 – 2024 |
 | 📋 | **Project Manager** — 34-member team | Company Visit IT x IS Goes to ITBCA | 2023 – 2024 |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
